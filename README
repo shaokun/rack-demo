@@ -1,0 +1,11 @@
+1. hello rack
+rackup hello_rack.ru
+
+2. response timer
+rackup response_timer.ru
+
+3. .NEt or J2EE in one second
+rackup jsp.ru
+
+4. no IE 6 please
+rackup no_ie6.ru
